@@ -1,0 +1,515 @@
+    1  nvim .
+    2  alias
+    3  alias vim=/home/afrench/nvim-linux64/bin/nvim
+    4  vim .
+    5  clear
+    6  vim .
+    7  ZSH_THEME
+    8  $ZSH_THEME
+    9  echo $ZSH_THEME
+   10  sudo apt list git wget curl xclip
+   11  git clone https://github.com/zsh-users/zsh-auto... ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+   12  clear
+   13  vim .
+   14  zsh
+   15  clear
+   16  zsh
+   17  clear
+   18  zsh
+   19  vim .
+   20  zsh
+   21  vim .
+   22  clear
+   23  zsh
+   24  asdf
+   25  zsh
+   26  asdf
+   27  zsh
+   28  clera
+   29  c
+   30  echo $RANDOM_THEME
+   31  vim .
+   32  c
+   33  zsh
+   34  c
+   35  cd .config
+   36  cd nvim
+   37  cd ..
+   38  clear
+   39  echo hello
+   40  ece
+   41  asdf
+   42  clera
+   43  clear
+   44  exit
+   45  tmux 
+   46  exit
+   47  tmux -a
+   48  tmux --attach
+   49  tmux --help
+   50  clear
+   51  .vim
+   52  ~
+   53  ls
+   54  rust-stuff
+   55  ;s
+   56  ls
+   57  dungeon_guide
+   58  ls
+   59  cd ..
+   60  ..
+   61  ls
+   62  vim .
+   63  cd .conf
+   64  cd .config
+   65  ls
+   66  nvi
+   67  nvim
+   68  vim .
+   69  clear
+   70  tmux
+   71  ls
+   72  clear
+   73  cd ..
+   74  vim .
+   75  tmux
+   76  exirt
+   77  exit
+   78  tumx a
+   79  tmux a
+   80  vim .
+   81  tmux
+   82  exit
+   83  vim .
+   84  clera
+   85  c
+   86  tmux
+   87  tmux a
+   88  asd;lfkj
+   89  c
+   90  clear
+   91  tmux a
+   92  vim .
+   93  exit
+   94  vim /mnt/c/Users/Austi/A
+   95  vim /mnt/c/Users/Austi/AppData/Roaming/alacritty
+   96  cd /mnt/c/Users/Austi/AppData/Roaming/alacritty
+   97  mkdir themes
+   98  ls
+   99  git clone https://github.com/alacritty/alacritty-theme themes
+  100  cd rust-stuff
+  101  ls
+  102  dungeon_guide
+  103  vim .
+  104  c
+  105  ls
+  106  ll
+  107  dir
+  108  clear
+  109  ls
+  110  rust
+  111  rust-stuff
+  112  ls
+  113  dungeon_guide
+  114  ls
+  115  vim .
+  116  cargo run -- spells/acid-arrow
+  117  ls .cargo
+  118  ls
+  119  cd ..
+  120  ls
+  121  ls .cargo
+  122  ls .cargo/bin
+  123  PATH
+  124  $PATH
+  125  path
+  126  path+=('/home/afrench/.cargo/bin/')
+  127  $path
+  128  echo $path
+  129  cargo --version
+  130  clear
+  131  vim .
+  132  c
+  133  zsh
+  134  clear
+  135  ls
+  136  cd rust-stuff
+  137  cd dungeon_guide
+  138  cargo run -- spells/acid-arrow
+  139  vim .
+  140  cd ..
+  141  cargo new website_demo
+  142  cd website_demo
+  143  vim .
+  144  cargo run
+  145  vim .
+  146  cargo run
+  147  vim .
+  148  cargo run
+  149  vim .
+  150  rustup target add wasm32-unknown-unknown
+  151  clear
+  152  cargo install --locked trunk
+  153  vim .
+  154  cd ..
+  155  rm website_demo
+  156  rm -r website_demo
+  157  mkdir web-wasm-project
+  158  cd web-wasm-project
+  159  cargo new server
+  160  rm server
+  161  rm -rserver
+  162  rm -r server
+  163  clera
+  164  c
+  165  cargo new --bin server --vcs none
+  166  cargo new --bin frontend --vcs none
+  167  sl
+  168  ls
+  169  echo '[workspace]\nmembers = ["server", "forntend"]\n'
+  170  echo '[workspace]\nmembers = ["server", "forntend"]' > Cargo.toml
+  171  echo -e '[workspace]\nmembers = ["server", "forntend"]' > Cargo.toml
+  172  echo -e "target/\ndist/" > .gitignore
+  173  git init
+  174  cd server
+  175  ls
+  176  cargo add\\naxum\\nlog\\ntower\\ntracing
+  177  cargo add \\naxum \\nlog \\ntower \\ntracing \\ntracing-subscriber \\nclap --features clap/derive \\ntokio --features tokio/full \\ntower-http --features tower-http/full
+  178  clear
+  179  cargo add axum
+  180  cd ..
+  181  cd web-wasm-project
+  182  cd frontend
+  183  ls
+  184  cd ..
+  185  ls
+  186  /home/afrench/rust-stuff/web-wasm-project/frontend/Cargo.toml
+  187  sudo 
+  188  sudo /home/afrench/rust-stuff/web-wasm-project/frontend/Cargo.toml
+  189  cd server
+  190  cargo add \\n  axum \\n  log \\n  tower \\n  tracing \\n  tracing-subscriber \\n  clap --features clap/derive \\n  tokio --features tokio/full \\n  tower-http --features tower-http/full
+  191  sudo cargo add \\n  axum \\n  log \\n  tower \\n  tracing \\n  tracing-subscriber \\n  clap --features clap/derive \\n  tokio --features tokio/full \\n  tower-http --features tower-http/full
+  192  sudo su
+  193  cd ..
+  194  sudo cargo add \\n  axum \\n  log \\n  tower \\n  tracing \\n  tracing-subscriber \\n  clap --features clap/derive \\n  tokio --features tokio/full \\n  tower-http --features tower-http/full
+  195  cargo add \\n  axum \\n  log \\n  tower \\n  tracing \\n  tracing-subscriber \\n  clap --features clap/derive \\n  tokio --features tokio/full \\n  tower-http --features tower-http/full
+  196  ll
+  197  ll frontend
+  198  chown 777 -r frontend
+  199  chown 777\ frontend
+  200  chown 777 frontend
+  201  sudo chown 777 frontend
+  202  lll
+  203  ll
+  204  sudo chown afrench frontend
+  205  ll
+  206  sudo chmod 777 frontend
+  207  ll
+  208  sudo chmod 777 server
+  209  ll
+  210  ll server
+  211  chmod -h
+  212  chmod --help
+  213  sudo chmod -R 777 server
+  214  sudo chmod -R 777 frontend
+  215  cargo add \\n  axum \\n  log \\n  tower \\n  tracing \\n  tracing-subscriber \\n  clap --features clap/derive \\n  tokio --features tokio/full \\n  tower-http --features tower-http/full
+  216  vim .
+  217  cargo add \\n  axum \\n  log \\n  tower \\n  tracing \\n  tracing-subscriber \\n  clap --features clap/derive \\n  tokio --features tokio/full \\n  tower-http --features tower-http/full
+  218  cd server
+  219  cargo add \\n  axum \\n  log \\n  tower \\n  tracing \\n  tracing-subscriber \\n  clap --features clap/derive \\n  tokio --features tokio/full \\n  tower-http --features tower-http/full
+  220  clera
+  221  c
+  222  vim .
+  223  cargo run --bin server
+  224  cd ..
+  225  cd frontend
+  226  cargo add \\nconsole_error_panic_hook \\ngloo-net \\nlog \\nwasm-bindgen-futures \\nwasm-logger \\nyew --features yew/csr \\nyew-router
+  227  sl
+  228  ls
+  229  vim .
+  230  trunk serve
+  231  cargo build
+  232  trunk serve
+  233  trunk
+  234  clera
+  235  clear
+  236  tmux
+  237  cd ..
+  238  cd server
+  239  cd ..
+  240  clear
+  241  vim .
+  242  ]
+  243  c
+  244  vim .
+  245  trunk build
+  246  cd server
+  247  cargo run --bin server
+  248  vim .
+  249  cargo run --bin server
+  250  vim .
+  251  cd ..
+  252  cargo run --bin server
+  253  c
+  254  vim .
+  255  cargo run --bin server -- --port 8081
+  256  trunk serve --proxy-backend==http://[::1]:8081/api/
+  257  trunk serve --proxy-backend=http://[::1]:8081/api/
+  258  cd ..
+  259  cd frontend; trunk serve --proxy-backend=http://[::1]:8081/api/
+  260  cd ..
+  261  cd frontend; trunk serve --proxy-backend=http://[::1]:8081/api/
+  262  cd frontend; trunk serve --help
+  263  cd frontend; trunk serve --proxy-backend http://[::1]:8081/api/
+  264  trunk serve --proxy-backend http://[::1]:8081/api/
+  265  trunk serve --proxy-backend =  http://[::1]:8081/api/
+  266  trunk serve --proxy-backend "http://[::1]:8081/api/"
+  267  c
+  268  clear
+  269  cd frontend
+  270  trunk build
+  271  cd ..
+  272  cargo run --bin server
+  273  clear
+  274  cd frontend
+  275  vim .
+  276  clera
+  277  c
+  278  cd ..
+  279  vim .
+  280  ls
+  281  chmod -x dev.sh
+  282  ;s
+  283  ls
+  284  ./dev.sh
+  285  source ./dev.sh
+  286  cd ..
+  287  ./dev.sh
+  288  sudo ./dev.sh
+  289  ll
+  290  sudo chmod -x dev.sh
+  291  ;s
+  292  ll
+  293  ./dev.sh
+  294  vim dev.sh
+  295  ./dev.sh
+  296  vim dev.sh
+  297  ./dev.sh
+  298  vim dev.sh
+  299  ./dev.sh
+  300  chmod -x dev.sh
+  301  ls
+  302  ll
+  303  ./dist
+  304  cd ..
+  305  ./dev.sh
+  306  clear
+  307  ll
+  308  vim dev.sh
+  309  mv dev.sh dev.zsh
+  310  ./dev.zsh
+  311  chmod -x dev.zsh
+  312  ./dev.zsh
+  313  chmod +x dev.zsh
+  314  ./dev.zsh
+  315  vim dev.zsh
+  316  mv dev.zsh dev.sh
+  317  ll
+  318  ./dev.sh
+  319  vim dev.zsh
+  320  vim dev.sh
+  321  ./dev.sh
+  322  vim dev.sh
+  323  ./dev.sh
+  324  vim dev.sh
+  325  ./dev.sh
+  326  vim dev.sh
+  327  ./dev.sh
+  328  clear
+  329  cargo watch
+  330  cargo --list
+  331  cargo install cargo-watch
+  332  c
+  333  ./dev.sh
+  334  clera
+  335  c
+  336  ./dev.sh
+  337  vim .
+  338  ls
+  339  clear
+  340  ps
+  341  ps -a
+  342  ps
+  343  trunk
+  344  kill 28395
+  345  ps
+  346  clera
+  347  c
+  348  ce
+  349  c
+  350  exit
+  351  cd ..
+  352  ls
+  353  clear
+  354  tmux -a
+  355  tmux a
+  356  tmux d
+  357  tmux detach
+  358  tmux a
+  359  vim .
+  360  cargo add markdown@1.0.0-alpha.14
+  361  vim .
+  362  tmux detach
+  363  exit
+  364  cd rust-stuff
+  365  ls
+  366  cargo new project_timer
+  367  cd project_timer
+  368  vim .
+  369  cargo run -- 5
+  370  time 
+  371  time echo hello
+  372  tmux a
+  373  tmux
+  374  vim .
+  375  cargo run -- 5
+  376  cargo run -- 600
+  377  clear
+  378  cargo add soloud
+  379  mv /mnt/c/Users/Austi/Downloads/derpa-derpa-derpa-derp-82609.mp3 ./sound_to_use.mp3
+  380  ls
+  381  cargo build
+  382  cmake
+  383  apt install cmake
+  384  sudo apt install cmake
+  385  cmake
+  386  clear
+  387  cargo build
+  388  cargo run -- 5
+  389  audio
+  390  rustup target add x86_64-pc-windows-gnu
+  391  cargo build --target x86_64-pc-windows-gnu
+  392  cd ..
+  393  cp project_timer  /mnt/g/Rust-stuff
+  394  cp -r project_timer  /mnt/g/Rust-stuff
+  395  cd /mnt/g/Rust-stuff
+  396  vim .
+  397  cp -r project_timer  /mnt/g/Rust-stuff
+  398  c
+  399  exit
+  400  ls
+  401  cd rust-stuff
+  402  ls
+  403  cargo new commander
+  404  cd commander
+  405  vim .
+  406  clear
+  407  tumx a
+  408  tmux a
+  409  tmux
+  410* vim
+  411* vim .
+  412* cd /mnt/c/Users/Austi/OneDrive/Documents/Rust-Workspaces/IFO_cli_Tool
+  413* vim .
+  414* cd ~
+  415* cd rust-stuff/commander
+  416* vim .
+  417  cargo add ssh2
+  418  cargo build
+  419* cd ..
+  420* vim .
+  421  cargo run -- 127.0.0.0:22
+  422  cargo run -- new@sdf.org
+  423  clear
+  424  cargo run -- 44.204.233.168:22
+  425  cargo run -- -h 44.204.233.168:22
+  426  echo $SSH
+  427  echo $SSH*
+  428  echo $SSH_AGENT_PID
+  429  pageant
+  430  apt install pageant
+  431  sudo apt install pageant
+  432  ssh-agent
+  433  ssh-agent -h
+  434  ls
+  435  ssh-add /mnt/c/Users/Austi/Downloads/Rusty_key.ppk
+  436  ssh-agent -s
+  437  ssh-add /mnt/c/Users/Austi/Downloads/Rusty_key.ppk
+  438  eval `ssh-agent -s`
+  439  ssh-add /mnt/c/Users/Austi/Downloads/Rusty_key.ppk
+  440  chmod 600 /mnt/c/Users/Austi/Downloads/Rusty_key.ppk
+  441  ssh-add /mnt/c/Users/Austi/Downloads/Rusty_key.ppk
+  442  ssh-add -h
+  443  sudo chmod 600 /mnt/c/Users/Austi/Downloads/Rusty_key.ppk
+  444  ssh-add /mnt/c/Users/Austi/Downloads/Rusty_key.ppk
+  445  mv /mnt/c/Users/Austi/Downloads/Rusty_key.ppk .ssh/
+  446  ssh-add -D
+  447  ssh-add /mnt/c/Users/Austi/Downloads/Rusty_key.ppk
+  448  ssh-add -D
+  449  ll /mnt/c/Users/Austi/Downloads/ | grep rusty
+  450  ll /mnt/c/Users/Austi/Downloads/ |\n
+  451  ll /mnt/c/Users/Austi/Downloads/\n
+  452  ll /mnt/c/Users/Austi/Downloads/ | grep Rusty\n
+  453  cp /mnt/c/Users/Austi/Downloads/Rusty_key.ppk ~/.ssh
+  454  ll ~/.ssh
+  455  ll ~/.ssh/
+  456  mv ~/.ssh ~/Rusty_key.ppk
+  457  mkdir ~/.ssh
+  458  mv ~/Rusty_key.ppk ~/.ssh
+  459  ls
+  460* cd ~
+  461* cd .ssh
+  462* ls
+  463* cd ..
+  464* ll .ssh
+  465* chmod 600 .ssh/Rusty_key.ppk
+  466* ssh-add .ssh/Rusty_key.ppk
+  467  c
+  468  history
+  469  eval `ssh-agent -s`
+  470  ssh-add ~/.ssh/Rusty_key.ppk
+  471  mv /mnt/c/Users/Austi/Downloads/Rust_Key.pem ~/.ssh
+  472  chmod 600 ~/.ssh/Rust_Key.pem
+  473  ssh-add ~/.ssh/Rust_Key.pem
+  474  clear
+  475  cargo run -- -h 3.84.86.114:22
+  476* tmux a
+  477* vim .
+  478  cargo add clap
+  479  cargo add clap --feature derive
+  480  cargo add clap --features derive
+  481* cd rust-stuff
+  482* vim .
+  483  cargo run -- --help
+  484  cargo run -- -H 3.84.86.114 -p 22 -u "ec2-user" -c ["ls>temp.txt","ls","cat temp.txt","rm -f temp.txt"]
+  485  cargo run -- -H 3.84.86.114 -p 22 -u "ec2-user" -c "["ls>temp.txt","ls","cat temp.txt","rm -f temp.txt"]"
+  486  cargo run -- -H 3.84.86.114 -p 22 -u "ec2-user" -c ls ls
+  487  cargo run -- -H 3.84.86.114 -p 22 -u "ec2-user" -c (ls,ls)
+  488  cargo run -- -H 3.84.86.114 -p 22 -u "ec2-user" -c sl
+  489  cargo run -- -H 3.84.86.114 -p 22 -u "ec2-user" -c ls
+  490  cargo run -- -H 3.84.86.114 -p 22 -u "ec2-user" -c "echo hello"
+  491  cargo run -- -H 3.84.86.114 -p 22 -u "ec2-user" -c "echo hello","echo hello"
+  492  cargo run -- -H 3.84.86.114 -p 22 -u "ec2-user" -c "echo hello" "echo hello"
+  493  cargo run -- -H 3.84.86.114 -p 22 -u "ec2-user" -c ["echo hello", "echo hello"]
+  494  cargo run -- -H 3.84.86.114 -p 22 -u "ec2-user" -c ["echo hello","echo hello"]
+  495  cargo run -- -H 3.84.86.114 -p 22 -u "ec2-user" -c {"echo hello","echo hello"}
+  496  cargo run -- -H 3.84.86.114 -p 22 -u "ec2-user" -c "echo hello > tmp.txt" -c "cat tmp.txt" -c "rm -f tmp.txt"
+  497  clear
+  498  cargo run -- -H 3.84.86.114 -p 22 -u "ec2-user" -c "echo hello > tmp.txt" -c "cat tmp.txt" -c "rm -f tmp.txt"
+  499  cargo run -- -H 3.84.86.114 -p 22 -u "ec2-user" -c "uname -r"
+  500  cargo build --release
+  501  cp target/release/commander /bin/
+  502  cp target/release/commander /usr/bin
+  503  cp target/release/commander /usr/local/bin
+  504  echo $path
+  505  sudo cp target/release/commander /usr/local/bin
+  506  commander -H 3.84.86.114 -p 22 -u "ec2-user" -c "uname -r"
+  507  c
+  508  commander -H 3.84.86.114 -p 22 -u "ec2-user" -c "uname -r"
+  509  commander -H 3.84.86.114 -p 22 -u "ec2-user" -c "uname -r" -c "echo hello"
+  510  cargo build --target
+  511  cargo build --target --help
+  512  cargo target
+  513  cargo --list
+  514  cargo version
+  515  history
